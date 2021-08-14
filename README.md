@@ -1,2 +1,0 @@
-# DLIMG
-Deep learning - Image
